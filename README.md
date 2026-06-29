@@ -29,6 +29,7 @@ The project highlights practical SQL skills commonly used for data analysis, inc
 |---------------|---------------------------------------------|
 | `SQL scripts/`  | Data_Cleaning.sql & Exploratory_Data_Analysis.sql        |
 | `data/`         | layoffs.csv                                              |
+| `images/`       | Screenshots of sample queries                            |
 | `README.md`     | Project overview, processess, and outcomes               |
 | `LICENSE`       | MIT License file (permissions & usage)                   |
 
